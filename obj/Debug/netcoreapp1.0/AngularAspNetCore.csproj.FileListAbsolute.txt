@@ -1,8 +1,0 @@
-/Users/john/_git/AngularAspNetCore/bin/Debug/netcoreapp1.0/AngularAspNetCore.deps.json
-/Users/john/_git/AngularAspNetCore/bin/Debug/netcoreapp1.0/AngularAspNetCore.runtimeconfig.json
-/Users/john/_git/AngularAspNetCore/bin/Debug/netcoreapp1.0/AngularAspNetCore.runtimeconfig.dev.json
-/Users/john/_git/AngularAspNetCore/obj/Debug/netcoreapp1.0/AngularAspNetCore.AssemblyInfo.cs
-/Users/john/_git/AngularAspNetCore/bin/Debug/netcoreapp1.0/AngularAspNetCore.dll
-/Users/john/_git/AngularAspNetCore/bin/Debug/netcoreapp1.0/AngularAspNetCore.pdb
-/Users/john/_git/AngularAspNetCore/obj/Debug/netcoreapp1.0/AngularAspNetCore.dll
-/Users/john/_git/AngularAspNetCore/obj/Debug/netcoreapp1.0/AngularAspNetCore.pdb
